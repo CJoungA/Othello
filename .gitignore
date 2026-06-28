@@ -1,0 +1,48 @@
+# Unreal Engine generated files
+Binaries/
+Build/WindowsNoEditor/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE and editor generated files
+.vs/
+.vscode/
+.idea/
+*.sln
+UpgradeLog.htm
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Build products and logs
+*.log
+*.tmp
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Unreal automation and local user files
+*.uatbuildrecord
+*.uasset.tmp
+*.umap.tmp
+*.user
+*.userosscache
+*.sln.DotSettings.user
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Keep project source/assets tracked:
+# - Config/
+# - Content/
+# - Source/
+# - *.uproject
