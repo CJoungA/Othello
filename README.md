@@ -92,7 +92,4 @@ Source/Othello/
 - 착수 후 양쪽 화면에서 돌 뒤집기 결과가 동일하게 반영되는지
 - 돌 개수, 턴 제한 시간, 게임 종료 문구가 정상적으로 갱신되는지
 
-## Repository Notes
 
-Unreal Engine에서 자동 생성되는 `Binaries/`, `Intermediate/`, `Saved/`, `DerivedDataCache/`, Visual Studio 설정 파일 등은 `.gitignore`로 제외했습니다.  
-GitHub에는 프로젝트 재현에 필요한 `Config/`, `Content/`, `Source/`, `Othello.uproject` 중심으로 관리합니다.
